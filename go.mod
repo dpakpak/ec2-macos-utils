@@ -6,6 +6,7 @@ toolchain go1.23.3
 
 require (
 	github.com/Masterminds/semver v1.5.0
+	github.com/docker/go-units v0.5.0
 	github.com/dustin/go-humanize v1.0.1
 	github.com/golang/mock v1.6.0
 	github.com/sirupsen/logrus v1.9.3
